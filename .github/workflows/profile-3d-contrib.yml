@@ -1,0 +1,26 @@
+# GitHub Action 配置文件
+# 将此文件保存为 .github/workflows/profile-3d-contrib.yml
+
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 每天自动运行一次（UTC 18:00 = 北京时间凌晨2点）
+  workflow_dispatch:         # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Autumn-Whisper
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "generated 3d contrib" && git push)
