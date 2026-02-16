@@ -12,7 +12,7 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Final-year **Computer Science** undergraduate at <img src="https://upload.wikimedia.org/wikipedia/en/5/52/Hong_Kong_Polytechnic_University_logo.svg" height="20" /> **The Hong Kong Polytechnic University**
+- 🎓 Final-year **Computer Science** undergraduate at **The Hong Kong Polytechnic University**
 - 🔬 Research interests: **Explainable AI** · **AI for Science** · **Molecular Property Prediction**
 - 📝 Co-authored **3 research papers** (including submissions to *IEEE TPAMI* & *ICML 2026*)
 - 🔭 Currently working on interpretable & controllable molecule generation
@@ -40,21 +40,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Autumn-Whisper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn-Whisper&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-### 🏔️ 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
