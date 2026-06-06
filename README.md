@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="mailto:yeluo.sun@connect.polyu.hk"><img src="https://img.shields.io/badge/Email-yeluo.sun%40connect.polyu.hk-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sun-xu-polyu"><img src="https://img.shields.io/badge/LinkedIn-Autumn--Whisper-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
+  <a href="mailto:xu.sun@nemuslab.com"><img src="https://img.shields.io/badge/Email-xu.sun%40nemuslab.com-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:yeluo@hyfmwzs.com"><img src="https://img.shields.io/badge/Email-yeluo%40hyfmwzs.com-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 |------|-------|-------|------|
 | 2024 | A Triple Complementary Stream Network for Face Forgery Localization | **Computers & Graphics** | [DOI](https://doi.org/10.1016/j.cag.2024.104153) |
 | 2024 | Unveiling Molecular Secrets: LLM-Augmented Linear Model for Molecular Property Prediction | **TPAMI** *(under review)* | [arXiv](https://doi.org/10.48550/arXiv.2410.08829) |
-| 2026 | Controllable Molecule Generation via Sparse Representation Editing | **ICML 2026** *(accepted)* | [Poster](https://icml.cc/virtual/2026/poster/61270) |
+| 2026 | Controllable Molecule Generation via Sparse Representation Editing | **ICML 2026** | [Poster](https://icml.cc/virtual/2026/poster/61270) |
 
 ---
 
