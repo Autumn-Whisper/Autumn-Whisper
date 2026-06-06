@@ -25,7 +25,7 @@
 |------|-------|-------|------|
 | 2024 | A Triple Complementary Stream Network for Face Forgery Localization | **Computers & Graphics** | [DOI](https://doi.org/10.1016/j.cag.2024.104153) |
 | 2024 | Unveiling Molecular Secrets: LLM-Augmented Linear Model for Molecular Property Prediction | **TPAMI** *(under review)* | [arXiv](https://doi.org/10.48550/arXiv.2410.08829) |
-| 2026 | Controllable Molecule Generation via Sparse Representation Editing | **ICML 2026** *(accepted)* | — |
+| 2026 | Controllable Molecule Generation via Sparse Representation Editing | **ICML 2026** *(accepted)* | [Poster](https://icml.cc/virtual/2026/poster/61270) |
 
 ---
 
