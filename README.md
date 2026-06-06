@@ -14,7 +14,7 @@
 
 - 🎓 Final-year **Computer Science** undergraduate at **The Hong Kong Polytechnic University**
 - 🔬 Research interests: **Explainable AI** · **AI for Science** · **Molecular Property Prediction**
-- 📝 Co-authored **3 research papers** (including submissions to *IEEE TPAMI* & *ICML 2026*)
+- 📝 Co-authored **3 research papers** (including an accepted paper at *ICML 2026* and a submission to *IEEE TPAMI*)
 - 🔭 Currently working on interpretable & controllable molecule generation
 
 ---
@@ -25,7 +25,7 @@
 |------|-------|-------|------|
 | 2024 | A Triple Complementary Stream Network for Face Forgery Localization | **Computers & Graphics** | [DOI](https://doi.org/10.1016/j.cag.2024.104153) |
 | 2024 | Unveiling Molecular Secrets: LLM-Augmented Linear Model for Molecular Property Prediction | **TPAMI** *(under review)* | [arXiv](https://doi.org/10.48550/arXiv.2410.08829) |
-| 2025 | Controllable Molecule Generation via Sparse Representation Editing | **ICML 2026** *(under review)* | — |
+| 2026 | Controllable Molecule Generation via Sparse Representation Editing | **ICML 2026** *(accepted)* | — |
 
 ---
 
